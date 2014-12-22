@@ -31,7 +31,7 @@ public class paychex
 		// the only change is the driver 
 		
 		
-		// for mobile keep it ture for browser set it to false
+		// for mobile keep it true for browser set it to false
 		boolean mobile = true;
 		WebDriver  webdriver;
 		if (mobile)
